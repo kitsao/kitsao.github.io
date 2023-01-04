@@ -1,0 +1,8 @@
+title: Emmanuel Kitsao # your name (or website title) here
+logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Extremely versatile Data Scientist with demonstrated ability to grasp new concepts, help others, solve problems and master emerging technologies over time. Displays an innovative mindset and unwavering passion when working on challenging projects. With strong communication and technicals skills in understanding businesses, data extraction, munging, exploration, modelling, and visualization, I strategically add value to and transform data into impactful insights that lead to the best business decisions. I teach too!  <br><br>
+  <a href="https://www.linkedin.com/in/emmanuel-kitsao-8796a534/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
