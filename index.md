@@ -4,12 +4,12 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [Basic Laboratory Information System](https://ilabafrica.github.io/blis-kenya/)
+<img src="images/blis.png?raw=true"/>
+In this project, I led the development and implementation of an open source laboratory information system that tracks the movement of specimens providing respective turn-around-times for tests, and provides individual workload monitoring, test reporting and quality control.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Kenya Serology Rapid HIV PT](http://rhtpt.or.ke/)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
