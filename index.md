@@ -10,8 +10,8 @@ In this project, I led the development and implementation of an open source labo
 
 ---
 #### [Kenya Serology Rapid HIV PT](http://rhtpt.or.ke/)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/rhtpt.png?raw=true"/>
+For this project, I led the configuration of a web and mobile  HIV Proficiency Testing System for the Ministry of Health in Kenya that in addition to paper cost saving, reduced the turnaround time of proficiency testing countrywide and improved the quality of the process. 
 
 ---
 
